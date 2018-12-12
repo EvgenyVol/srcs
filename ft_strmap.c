@@ -4,7 +4,7 @@
 
 char    ft_new(char *str)
 {
-    str[0] = 'a';
+    str[0] = 'b';
 }
 
 char    *ft_strmap(char const *s, char (*f)(char))
